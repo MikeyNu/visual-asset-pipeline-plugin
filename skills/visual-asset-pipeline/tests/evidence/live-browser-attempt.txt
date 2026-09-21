@@ -1,0 +1,9 @@
+Live-route smoke attempt, 21 September 2026
+Synthetic loopback fixture only, not a user platform.
+The Playwright-managed Chromium executable was absent.
+An existing executable was then inspected at /usr/bin/chromium.
+Version: Chromium 144.0.7559.96.
+Navigation to the loopback HTTP fixture returned:
+Page.goto: net::ERR_BLOCKED_BY_ADMINISTRATOR
+Live page/route checks could not run. No administrative policy was changed.
+Separate offline DOM/data-URI tests were executed and are reported separately.

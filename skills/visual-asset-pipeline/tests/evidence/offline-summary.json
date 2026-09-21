@@ -1,0 +1,84 @@
+{
+  "pass": true,
+  "checks": [
+    {
+      "width": 390,
+      "selector": "#image",
+      "pass": true
+    },
+    {
+      "width": 390,
+      "selector": "#background",
+      "pass": true
+    },
+    {
+      "width": 390,
+      "selector": "#mask",
+      "pass": true
+    },
+    {
+      "width": 390,
+      "selector": "#pseudo",
+      "pass": true
+    },
+    {
+      "width": 390,
+      "selector": "#second",
+      "pass": true
+    },
+    {
+      "width": 768,
+      "selector": "#image",
+      "pass": true
+    },
+    {
+      "width": 768,
+      "selector": "#background",
+      "pass": true
+    },
+    {
+      "width": 768,
+      "selector": "#mask",
+      "pass": true
+    },
+    {
+      "width": 768,
+      "selector": "#pseudo",
+      "pass": true
+    },
+    {
+      "width": 768,
+      "selector": "#second",
+      "pass": true
+    },
+    {
+      "width": 1440,
+      "selector": "#image",
+      "pass": true
+    },
+    {
+      "width": 1440,
+      "selector": "#background",
+      "pass": true
+    },
+    {
+      "width": 1440,
+      "selector": "#mask",
+      "pass": true
+    },
+    {
+      "width": 1440,
+      "selector": "#pseudo",
+      "pass": true
+    },
+    {
+      "width": 1440,
+      "selector": "#second",
+      "pass": true
+    }
+  ],
+  "scope": "15 offline browser element/decoder checks; set_content with data-URI synthetic fixtures, no network navigation.",
+  "live_route_audit": "blocked_by_environment_policy_in_this_session",
+  "native_generation_tested": false,
+  "artistic_quality_tested": false
+}

@@ -1,0 +1,5 @@
+# Optional adapters only. Browser binaries are installed separately with approval.
+openai
+playwright
+jsonschema
+PyYAML

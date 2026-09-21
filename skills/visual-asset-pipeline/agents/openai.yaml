@@ -1,0 +1,6 @@
+interface:
+  display_name: "Visual Asset Pipeline"
+  short_description: "Create, integrate, and verify visual assets in products"
+  default_prompt: "Use $visual-asset-pipeline to inspect this project, generate or recover the necessary visual assets, put the actual files in the correct project locations, integrate them, and verify the rendered result."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><title>Authoring directive example, not a shipped page</title></head>
+<body>
+<!-- This is an inert planning directive. The agent extracts the JSON and creates files.
+     It does not execute in the browser. Replace the sample contract before use.
+<visual-asset>
+{
+  "id": "hero-sculpture",
+  "status": "planned",
+  "alpha_required": true,
+  "source_method": "generate",
+  "brief": {
+    "purpose": "A distinctive product-relevant visual beside editable hero copy, not a screenshot of the page.",
+    "subject": "Replace with the specific subject, silhouette, materials, and approved brand direction.",
+    "composition": {
+      "aspect_ratio": "4:5",
+      "subject_bounds": [
+        0.2,
+        0.06,
+        0.95,
+        0.94
+      ],
+      "text_safe_bounds": [
+        0.0,
+        0.0,
+        0.35,
+        1.0
+      ],
+      "focal_point": [
+        0.65,
+        0.45
+      ],
+      "coordinate_system": "normalized [left, top, right, bottom]; illustrative targets, not guaranteed pixel coordinates"
+    },
+    "style": {
+      "medium": "art-directed render",
+      "palette": "Read the project design rules",
+      "camera": "Choose from the UI reference or visual intent",
+      "lighting": "Consistent across the asset family"
+    },
+    "desktop_behavior": "Right-side contained cutout; preserve silhouette and editable copy.",
+    "mobile_behavior": "Stack below heading; contain the entire object rather than indiscriminately cropping.",
+    "alt_purpose": "decorative",
+    "alt_text": "",
+    "reference_inputs": [],
+    "acceptance": [
+      "The subject matches the brief",
+      "Actual transparency with clean edges",
+      "No baked-in page copy or controls",
+      "Readable surrounding UI at every target width"
+    ],
+    "max_revisions": 2,
+    "separate_paid_api_authorized": false
+  },
+  "outputs": [],
+  "consumers": [
+    {
+      "file": "src/pages/index.tsx",
+      "route": "/",
+      "selector": "[data-asset-id=\"hero-sculpture\"]",
+      "kind": "image"
+    }
+  ],
+  "qa": {
+    "asset_visual": "not_run",
+    "destination": "not_run",
+    "browser": "not_run",
+    "page_visual": "not_run"
+  },
+  "provenance": {
+    "tool": "not_exposed",
+    "native_dimensions": null,
+    "prompt_record": null
+  },
+  "blocked_reason": null
+}
+</visual-asset>
+-->
+<section aria-labelledby="hero-heading">
+  <h1 id="hero-heading">Editable product copy belongs in HTML</h1>
+  <!-- After generation, insert a real img/picture using verified output paths.
+       Give the actual img data-asset-id="hero-sculpture" for browser QA.
+       Do not ship this example as a completed image integration. -->
+</section>
+</body>
+</html>

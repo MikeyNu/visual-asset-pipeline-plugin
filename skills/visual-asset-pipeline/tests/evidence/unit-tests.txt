@@ -1,0 +1,56 @@
+test_dryrun_no_key_no_request_no_files (test_assetctl.ApiTests.test_dryrun_no_key_no_request_no_files) ... ok
+test_execution_requires_explicit_approval (test_assetctl.ApiTests.test_execution_requires_explicit_approval) ... ok
+test_execution_requires_key (test_assetctl.ApiTests.test_execution_requires_key) ... ok
+test_existing_output_prevents_paid_request (test_assetctl.ApiTests.test_existing_output_prevents_paid_request) ... ok
+test_mask_size_mismatch (test_assetctl.ApiTests.test_mask_size_mismatch) ... ok
+test_missing_edit_input_rejected (test_assetctl.ApiTests.test_missing_edit_input_rejected) ... ok
+test_missing_response_not_fabricated (test_assetctl.ApiTests.test_missing_response_not_fabricated) ... ok
+test_mocked_png_saved_and_receipt (test_assetctl.ApiTests.test_mocked_png_saved_and_receipt) ... ok
+test_provider_error_not_leaked (test_assetctl.ApiTests.test_provider_error_not_leaked) ... ok
+test_rejected_alpha_keeps_candidate_without_retry (test_assetctl.ApiTests.test_rejected_alpha_keeps_candidate_without_retry) ... ok
+test_actual_alpha_and_bounds (test_assetctl.AssetTests.test_actual_alpha_and_bounds) ... ok
+test_bad_portable_paths (test_assetctl.AssetTests.test_bad_portable_paths) ... ok
+test_case_collision_rejected (test_assetctl.AssetTests.test_case_collision_rejected) ... ok
+test_code_in_tag_not_executed (test_assetctl.AssetTests.test_code_in_tag_not_executed) ... ok
+test_corrupt_data_rejected (test_assetctl.AssetTests.test_corrupt_data_rejected) ... ok
+test_create_only_no_overwrite (test_assetctl.AssetTests.test_create_only_no_overwrite) ... ok
+test_destination_conflict_preflight (test_assetctl.AssetTests.test_destination_conflict_preflight) ... ok
+test_duplicate_tag_id_rejected (test_assetctl.AssetTests.test_duplicate_tag_id_rejected) ... ok
+test_empty_alpha_rejected (test_assetctl.AssetTests.test_empty_alpha_rejected) ... ok
+test_envelope_hash_required (test_assetctl.AssetTests.test_envelope_hash_required) ... ok
+test_exif_orientation_recorded (test_assetctl.AssetTests.test_exif_orientation_recorded) ... ok
+test_extension_does_not_define_format (test_assetctl.AssetTests.test_extension_does_not_define_format) ... ok
+test_fake_opaque_checkerboard_rejected (test_assetctl.AssetTests.test_fake_opaque_checkerboard_rejected) ... ok
+test_invalid_dimensions_rejected (test_assetctl.AssetTests.test_invalid_dimensions_rejected) ... ok
+test_invalid_name_rejected (test_assetctl.AssetTests.test_invalid_name_rejected) ... ok
+test_jpeg_alpha_loss_rejected (test_assetctl.AssetTests.test_jpeg_alpha_loss_rejected) ... ok
+test_no_upscaling_and_native_unchanged (test_assetctl.AssetTests.test_no_upscaling_and_native_unchanged) ... ok
+test_payload_hash_checked_even_with_valid_envelope_hash (test_assetctl.AssetTests.test_payload_hash_checked_even_with_valid_envelope_hash) ... ok
+test_plan_without_files_not_delivered (test_assetctl.AssetTests.test_plan_without_files_not_delivered) ... ok
+test_prefix_violation_rejected (test_assetctl.AssetTests.test_prefix_violation_rejected) ... ok
+test_prepare_repeat_idempotent (test_assetctl.AssetTests.test_prepare_repeat_idempotent) ... ok
+test_raw_tag_rejected (test_assetctl.AssetTests.test_raw_tag_rejected) ... ok
+test_roundtrip_dryrun_and_apply (test_assetctl.AssetTests.test_roundtrip_dryrun_and_apply) ... ok
+test_static_missing_integration_fails (test_assetctl.AssetTests.test_static_missing_integration_fails) ... ok
+test_static_valid_files_and_consumers (test_assetctl.AssetTests.test_static_valid_files_and_consumers) ... ok
+test_symlink_escape_rejected (test_assetctl.AssetTests.test_symlink_escape_rejected) ... ok
+test_transfer_repeat_idempotent (test_assetctl.AssetTests.test_transfer_repeat_idempotent) ... ok
+test_valid_comment_tag (test_assetctl.AssetTests.test_valid_comment_tag) ... ok
+test_credential_url_rejected (test_assetctl.BrowserUtilityTests.test_credential_url_rejected) ... ok
+test_cross_origin_route_rejected (test_assetctl.BrowserUtilityTests.test_cross_origin_route_rejected) ... ok
+test_optimizer_url_unwraps (test_assetctl.BrowserUtilityTests.test_optimizer_url_unwraps) ... ok
+test_query_secrets_removed (test_assetctl.BrowserUtilityTests.test_query_secrets_removed) ... ok
+test_same_origin_route (test_assetctl.BrowserUtilityTests.test_same_origin_route) ... ok
+test_agent_metadata (test_package.PackageTests.test_agent_metadata) ... ok
+test_evaluation_status_truthful (test_package.PackageTests.test_evaluation_status_truthful) ... ok
+test_frontmatter_resources_exist (test_package.PackageTests.test_frontmatter_resources_exist) ... ok
+test_no_em_dash (test_package.PackageTests.test_no_em_dash) ... ok
+test_plan_matches_schema (test_package.PackageTests.test_plan_matches_schema) ... ok
+test_research_ids_defined (test_package.PackageTests.test_research_ids_defined) ... ok
+test_skill_frontmatter (test_package.PackageTests.test_skill_frontmatter) ... ok
+test_tag_matches_schema (test_package.PackageTests.test_tag_matches_schema) ... ok
+
+----------------------------------------------------------------------
+Ran 51 tests in 0.111s
+
+OK

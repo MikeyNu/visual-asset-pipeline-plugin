@@ -1,0 +1,201 @@
+{
+  "version": "1.0.0",
+  "note": "Hashes cover all package files except this manifest itself.",
+  "files": [
+    {
+      "path": "CHATGPT_PROJECT_INSTRUCTIONS.md",
+      "bytes": 2381,
+      "sha256": "ee772a1ed18c56a000e7df3d59a2e1d6a9ac03aec664fb1715dcbb3c2df7e4de"
+    },
+    {
+      "path": "INSTALL.md",
+      "bytes": 3328,
+      "sha256": "d3bef7f1eb0504062e7c3207dfc5ee6851ce0861debb30c303298373c851d17f"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1056,
+      "sha256": "1126322e2cc8d165adc4c792eeb195717de2bcc7b39be1ce77959d78e87ef685"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3588,
+      "sha256": "316d5c5aaeb5ba67c32ef743411f6b3d42fe4794bc2f5ae9118cce49613c0f34"
+    },
+    {
+      "path": "RESEARCH.md",
+      "bytes": 9938,
+      "sha256": "77c8fc971c3d76afbb696ae8eb38ede1ef8d3cdea53ed63d52393b3d9414696d"
+    },
+    {
+      "path": "SKILL.md",
+      "bytes": 13219,
+      "sha256": "dc9a198002cbd59c85bbbf3159e0a31182d86599b2fa4bf08bdba8408466c914"
+    },
+    {
+      "path": "TEST_REPORT.md",
+      "bytes": 3764,
+      "sha256": "92cc04027cad70d3537babb0f7be58f8fbea42d63287b9032d1096c8ae766d8c"
+    },
+    {
+      "path": "agents/openai.yaml",
+      "bytes": 396,
+      "sha256": "791502fde07004c00e74ba656a4f30b491610591641ef022535348ddc1d62b46"
+    },
+    {
+      "path": "evals/README.md",
+      "bytes": 1375,
+      "sha256": "30c0340891b6e14ba201cf8d14224db1aa5832324a84845d41dc043496afd019"
+    },
+    {
+      "path": "evals/scenarios.json",
+      "bytes": 10975,
+      "sha256": "27f9375b713e5c3d25cc0de59a1476536f86ef37ed74e7b8e8518d2256c98a61"
+    },
+    {
+      "path": "references/art-direction.md",
+      "bytes": 5030,
+      "sha256": "89c1d80fd825fdc4193f0a0b2e56ebb9fae12e9f0743cecef9aaaf49020463d7"
+    },
+    {
+      "path": "references/frontend-integration.md",
+      "bytes": 6534,
+      "sha256": "de72a9d2a14d18edb317e1d7257ed28bac7903de24a6b2c405bec338378dd3d1"
+    },
+    {
+      "path": "references/host-adapters.md",
+      "bytes": 4993,
+      "sha256": "eacf140667392d46b8e7c8fe59b68b062261ee9adf47f0d733b5c41adfc945a9"
+    },
+    {
+      "path": "references/prompt-engineering.md",
+      "bytes": 7554,
+      "sha256": "cb4ed61c5af60952abd0dbfafcf9702fb862a223ffaa2094c6d0f9045fbc86bb"
+    },
+    {
+      "path": "references/qa-and-recovery.md",
+      "bytes": 6613,
+      "sha256": "4bf73e7220c0eb3718179ccbdac3a95bf9faa0ad5e9a1a633b04552a0ec5c027"
+    },
+    {
+      "path": "references/reference-reconstruction.md",
+      "bytes": 3600,
+      "sha256": "589ddf81337808aac973bc950efb58abce45c17e23f2ac1626b1bf742ac127bd"
+    },
+    {
+      "path": "references/transfer-and-repository.md",
+      "bytes": 6356,
+      "sha256": "3e659659343cf7752127b27c90f7d3a877103032a7e228ff5dc739f12b9855d1"
+    },
+    {
+      "path": "requirements-optional.txt",
+      "bytes": 119,
+      "sha256": "2676be7ef0fdc52ded465a176689f141256400541e4b041cc304600843500b21"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 97,
+      "sha256": "e901601f3053229bd1ea424d1a8f76c29dd9469cd49d0795ca566dceecac1bf3"
+    },
+    {
+      "path": "scripts/README.md",
+      "bytes": 9427,
+      "sha256": "5d9d2cb63fee2c5f5c519a52dcc03d8e97d8fbfb46398fa020b6f076e48f0a71"
+    },
+    {
+      "path": "scripts/assetctl.py",
+      "bytes": 21636,
+      "sha256": "6367ccaf441b84a88c4691a83baebf084f7f8d5f3cac743f568e2028f5377409"
+    },
+    {
+      "path": "scripts/browser_audit.py",
+      "bytes": 12327,
+      "sha256": "c1601d6fbd0b1ba337f46f4e5c4e5fc7e7e2567ee07ce6e72879250bd2c61f58"
+    },
+    {
+      "path": "scripts/generate_openai.py",
+      "bytes": 6711,
+      "sha256": "0d3433b34d5f1a7441a4a1113dcd223baec1f38ea7565a51549ddcbb518b9be5"
+    },
+    {
+      "path": "templates/asset-brief.md",
+      "bytes": 1407,
+      "sha256": "c5da77ea7590916e427748f6ee042fced01d6f7c5ce27e2b96451a6f680a1195"
+    },
+    {
+      "path": "templates/asset-manifest.schema.json",
+      "bytes": 4708,
+      "sha256": "cd34ec510bb03d7f55bb449df98947a4d8ff475ce7563e2273038e0884db5b61"
+    },
+    {
+      "path": "templates/asset-plan.json",
+      "bytes": 2461,
+      "sha256": "4dfb7f620b9be8a502b4268f93faed01fd3f66b642c223c17b2d8dbd2bb27976"
+    },
+    {
+      "path": "templates/asset-tag-example.html",
+      "bytes": 2709,
+      "sha256": "a9ab5ce4ab880b76211cf89bba7114eb4354d7d3080cf74c2cbee2f5f416905d"
+    },
+    {
+      "path": "templates/qa-report.md",
+      "bytes": 1164,
+      "sha256": "d8912e862dde90c87f10046e9b88753aadc9b4bd684d8892d139d41b13b6cfbd"
+    },
+    {
+      "path": "templates/resume.md",
+      "bytes": 1018,
+      "sha256": "20bb56c14661e5efaa1695952079856fdee05a66df9fb447121f1c19cd096e68"
+    },
+    {
+      "path": "tests/browser_offline.py",
+      "bytes": 3733,
+      "sha256": "741a427dcd26633c3b2264723112f08b8e9cb38bc923a5546f836170c6aa4e29"
+    },
+    {
+      "path": "tests/browser_smoke.py",
+      "bytes": 5418,
+      "sha256": "d370dec343ce4a1c890a55d83a89fbaaf93685c2f85be1132e735fcf05dbb3c5"
+    },
+    {
+      "path": "tests/evidence/live-browser-attempt.txt",
+      "bytes": 500,
+      "sha256": "5c64cfeee3776fd42b7f3b9e2ecad6ccdbca123d4f061770fe63ff3e7233a5ab"
+    },
+    {
+      "path": "tests/evidence/offline-1440w.png",
+      "bytes": 18914,
+      "sha256": "e31cd9487f09c17c4260aad537b404f76e147172644f1b555b5b6ead4ec96879"
+    },
+    {
+      "path": "tests/evidence/offline-390w.png",
+      "bytes": 16980,
+      "sha256": "37033110cb9b9e39a9a5656840020790f686d249e80f1824142477f97a9448ec"
+    },
+    {
+      "path": "tests/evidence/offline-768w.png",
+      "bytes": 16361,
+      "sha256": "24da56518ea215635357fbab8cd158d0b3c54f9424c4c8cd798dd1667211c49e"
+    },
+    {
+      "path": "tests/evidence/offline-summary.json",
+      "bytes": 1530,
+      "sha256": "86d1bbaaf2a4f76a9e9c2723f7823274ac9d52bfbc10b00a1083dbdf0f07baf1"
+    },
+    {
+      "path": "tests/evidence/unit-tests.txt",
+      "bytes": 5058,
+      "sha256": "ba82d380c5cf88f900ef9fc0eca852091220fbf4bcf08a7a99eeee6d9bed2ca2"
+    },
+    {
+      "path": "tests/test_assetctl.py",
+      "bytes": 14797,
+      "sha256": "654891f003988eb26f554836fecad6048c85fd9b7807100ea4b0aa536b510c02"
+    },
+    {
+      "path": "tests/test_package.py",
+      "bytes": 2713,
+      "sha256": "76faf46e6a56c2c0a7a3ba0a73a081783bf73339ea571fe3de700cc2f8a5f60b"
+    }
+  ]
+}

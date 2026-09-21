@@ -1,0 +1,2 @@
+# Deterministic image helpers. Use your approved environment and lock its versions.
+Pillow>=10.0
